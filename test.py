@@ -1,1 +1,1 @@
-print "New"
+print ("New Inside Child")
